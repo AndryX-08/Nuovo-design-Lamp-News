@@ -1,0 +1,165 @@
+.piacere-di-proteggerti{padding-left: 40px;height: 300px}
+.video-privacy{width: 200px; position: absolute; top: 25%; left: 75%;}
+.lettera-p{display: none;position: absolute; left: 0.5%; top: 40.2%;}
+.lettera-i{display: none;position: absolute; left: 2.5%; top: 40.2%;}
+.lettera-a{display: none;position: absolute; left: 3.7%; top: 40.2%;}
+.lettera-c{display: none;position: absolute; left: 5.5%; top: 40.2%;}
+.lettera-e{display: none;position: absolute; left: 7.5%; top: 40.2%;}
+.lettera-r{display: none;position: absolute; left: 9.5%; top: 40.2%;}
+.lettera-e2{display: none;position: absolute; left: 11%; top: 40.2%;}
+/**/
+.lettera-d{display: none;position: absolute; left: 14.5%; top: 40.2%;}
+.lettera-i2{display: none;position: absolute; left: 16.5%; top: 40.2%;}
+/**/
+.lettera-p2{display: none;position: absolute; left: 19%; top: 40.2%;}
+.lettera-r2{display: none;position: absolute; left: 21%; top: 40.2%;}
+.lettera-o{display: none;position: absolute; left: 22.3%; top: 40.2%;}
+.lettera-t{display: none;position: absolute; left: 24.4%; top: 40.2%;}
+.lettera-e3{display: none;position: absolute; left: 26%; top: 40.2%;}
+.lettera-g{display: none;position: absolute; left: 28%; top: 40.2%;}
+.lettera-g2{display: none;position: absolute; left: 30%; top: 40.2%;}
+.lettera-e4{display: none;position: absolute; left: 32%; top: 40.2%;}
+.lettera-r3{display: none;position: absolute; left: 34%; top: 40.2%;}
+.lettera-t2{display: none;position: absolute; left: 35.7%; top: 40.2%;}
+.lettera-i3{display: none;position: absolute; left: 37%; top: 40.2%;}
+/**/
+/**/
+.lettera-p-crypt{display: block;position: absolute; left: 0.3%; top: 40%;}
+.lettera-i-crypt{display: block;position: absolute; left: 2%; top: 40%;}
+.lettera-a-crypt{display: block;position: absolute; left: 4%; top: 40%;}
+.lettera-c-crypt{display: block;position: absolute; left: 6%; top: 40%;}
+.lettera-e-crypt{display: block;position: absolute; left: 8%; top: 40%;}
+.lettera-r-crypt{display: block;position: absolute; left: 10%; top: 40%;}
+.lettera-e2-crypt{display: block;position: absolute; left: 12%; top: 40%;}
+/**/
+.lettera-d-crypt{display: block;position: absolute; left: 14.6%; top: 40%;}
+.lettera-i2-crypt{display: block;position: absolute; left: 16.6%; top: 40%;}
+/**/
+.lettera-p2-crypt{display: block;position: absolute; left: 19%; top: 40%;}
+.lettera-r2-crypt{display: block;position: absolute; left: 20.8%; top: 40%;}
+.lettera-o-crypt{display: block;position: absolute; left: 22.7%; top: 40%;}
+.lettera-t-crypt{display: block;position: absolute; left: 24.4%; top: 40%;}
+.lettera-e3-crypt{display: block;position: absolute; left: 26.2%; top: 40%;}
+.lettera-g-crypt{display: block;position: absolute; left: 28%; top: 40%;}
+.lettera-g2-crypt{display: block;position: absolute; left: 30%; top: 40%;}
+.lettera-e4-crypt{display: block;position: absolute; left: 32%; top: 40%;}
+.lettera-r3-crypt{display: block;position: absolute; left: 34%; top: 40%;}
+.lettera-t2-crypt{display: block;position: absolute; left: 35.8%; top: 40%;}
+.lettera-i3-crypt{display: block;position: absolute; left: 37.7%; top: 40%;}
+/*Scrolled*/
+.scrolled-down .lettera-p{display: block;}
+  .scrolled-down .lettera-p-crypt{display: none;}
+/**/
+.scrolled-down2 .lettera-i{display: block;}
+  .scrolled-down2 .lettera-i-crypt{display: none;}
+/**/
+.scrolled-down3 .lettera-a{display: block;}
+  .scrolled-down3 .lettera-a-crypt{display: none;}
+/**/
+.scrolled-down4 .lettera-c{display: block;}
+  .scrolled-down4 .lettera-c-crypt{display: none;}
+/**/
+.scrolled-down5 .lettera-e{display: block;}
+  .scrolled-down5 .lettera-e-crypt{display: none;}
+/**/
+.scrolled-down6 .lettera-r{display: block;}
+  .scrolled-down6 .lettera-r-crypt{display: none;}
+/**/
+.scrolled-down7 .lettera-e2{display: block;}
+  .scrolled-down7 .lettera-e2-crypt{display: none;}
+/**/
+/**/
+.scrolled-down8 .lettera-d{display: block;}
+  .scrolled-down8 .lettera-d-crypt{display: none;}
+/**/
+.scrolled-down8 .lettera-i2{display: block;}
+  .scrolled-down8 .lettera-i2-crypt{display: none;}
+/**/
+/**/
+.scrolled-down9 .lettera-p2{display: block;}
+  .scrolled-down9 .lettera-p2-crypt{display: none;}
+/**/
+.scrolled-down10 .lettera-r2{display: block;}
+  .scrolled-down10 .lettera-r2-crypt{display: none;}
+/**/
+.scrolled-down11 .lettera-o{display: block;}
+  .scrolled-down11 .lettera-o-crypt{display: none;}
+/**/
+.scrolled-down12 .lettera-t{display: block;}
+  .scrolled-down12 .lettera-t-crypt{display: none;}
+/**/
+.scrolled-down13 .lettera-e3{display: block;}
+  .scrolled-down13 .lettera-e3-crypt{display: none;}
+/**/
+.scrolled-down14 .lettera-g{display: block;}
+  .scrolled-down14 .lettera-g-crypt{display: none;}
+/**/
+.scrolled-down15 .lettera-g2{display: block;}
+  .scrolled-down15 .lettera-g2-crypt{display: none;}
+/**/
+.scrolled-down16 .lettera-e4{display: block;}
+  .scrolled-down16 .lettera-e4-crypt{display: none;}
+/**/
+.scrolled-down17 .lettera-r3{display: block;}
+  .scrolled-down17 .lettera-r3-crypt{display: none;}
+/**/
+.scrolled-down18 .lettera-t2{display: block;}
+  .scrolled-down18 .lettera-t2-crypt{display: none;}
+/**/
+.scrolled-down19 .lettera-i3{display: block;}
+  .scrolled-down19 .lettera-i3-crypt{display: none;}
+/**/
+@media (max-width: 768px) {
+  .piacere-di-proteggerti,
+  img {display: none;}
+  .video-privacy{position: absolute;  width: 30%; float: left;}
+  p{font-size: 15px; padding: 10px;}
+  h2{font-size: 20px; font-style: 20px; padding: 10px;}
+  /* .afVDVd{font-style: 10px; top: 10%; left: 15%;}
+  .lettera-p{display: none;position: absolute; left: 0.5%; top: 40.2%;}
+  .lettera-i{display: none;position: absolute; left: 4.5%; top: 40.2%;}
+  .lettera-a{display: none;position: absolute; left: 6.2%; top: 40.2%;}
+  .lettera-c{display: none;position: absolute; left: 9.5%; top: 40.2%;}
+  .lettera-e{display: none;position: absolute; left: 12.5%; top: 40.2%;}
+  .lettera-r{display: none;position: absolute; left: 16%; top: 40.2%;}
+  .lettera-e2{display: none;position: absolute; left: 18.2%; top: 40.2%;}
+  /*
+  .lettera-d{display: none;position: absolute; left: 23.5%; top: 40.2%;}
+  .lettera-i2{display: none;position: absolute; left: 27%; top: 40.2%;}
+  /*
+  .lettera-p2{display: none;position: absolute; left: 31%; top: 40.2%;}
+  .lettera-r2{display: none;position: absolute; left: 34.9%; top: 40.2%;}
+  .lettera-o{display: none;position: absolute; left: 37.3%; top: 40.2%;}
+  .lettera-t{display: none;position: absolute; left: 41%; top: 40.2%;}
+  .lettera-e3{display: none;position: absolute; left: 43.5%; top: 40.2%;}
+  .lettera-g{display: none;position: absolute; left: 47%; top: 40.2%;}
+  .lettera-g2{display: none;position: absolute; left: 40.5%; top: 40.2%;}
+  .lettera-e4{display: none;position: absolute; left: 54.2%; top: 40.2%;}
+  .lettera-r3{display: none;position: absolute; left: 57.5%; top: 40.2%;}
+  .lettera-t2{display: none;position: absolute; left: 60%; top: 40.2%;}
+  .lettera-i3{display: none;position: absolute; left: 62.5%; top: 40.2%;}
+  /**/
+  /*
+  .lettera-p-crypt{display: block;position: absolute; left: 0.5%; top: 40%;}
+  .lettera-i-crypt{display: block; position: absolute; left: 4.2%; top: 40%;}
+  .lettera-a-crypt{display: block;position: absolute; left: 7.7%; top: 40%;}
+  .lettera-c-crypt{display: block;position: absolute; left: 11.4%; top: 40%;}
+  .lettera-e-crypt{display: block;position: absolute; left: 14.1%; top: 40%;}
+  .lettera-r-crypt{display: block;position: absolute; left: 17.8%; top: 40%;}
+  .lettera-e2-crypt{display: block;position: absolute; left: 21.5%; top: 40%;}
+  /*
+  .lettera-d-crypt{display: block;position: absolute; left: 22.3%; top: 40%;}
+  .lettera-i2-crypt{display: block;position: absolute; left: 26%; top: 40%;}
+  /*
+  .lettera-p2-crypt{display: block;position: absolute; left: 39%; top: 40%;}
+  .lettera-r2-crypt{display: block;position: absolute; left: 41%; top: 40%;}
+  .lettera-o-crypt{display: block;position: absolute; left: 42.3%; top: 40%;}
+  .lettera-t-crypt{display: block;position: absolute; left: 44.4%; top: 40%;}
+  .lettera-e3-crypt{display: block;position: absolute; left: 46%; top: 40%;}
+  .lettera-g-crypt{display: block;position: absolute; left: 48%; top: 40%;}
+  .lettera-g2-crypt{display: block;position: absolute; left: 40%; top: 40%;}
+  .lettera-e4-crypt{display: block;position: absolute; left: 52%; top: 40%;}
+  .lettera-r3-crypt{display: block;position: absolute; left: 54%; top: 40%;}
+  .lettera-t2-crypt{display: block;position: absolute; left: 55.8%; top: 40%;}
+  .lettera-i3-crypt{display: block;position: absolute; left: 57.5%; top: 40%;} */
+}
